@@ -10,7 +10,7 @@
     <li>Patat</li>
     <li>Snack van Mayo: ...</li>
     <li>Kroket</li>
-    <li>Snack van Ketchup: Patat</li>
+    <li>Snack van Ketchup: Patat $2,50</li>
     <li>Bitterbal</li>
 </ul>
 <p>Laatst bijgewerkt: <?php echo date('d-m-Y'); ?></p>
