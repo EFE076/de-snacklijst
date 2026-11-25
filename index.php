@@ -8,7 +8,7 @@
 <h1>Snacklijst</h1>
 <ul>
     <li>Patat</li>
-    <li>Snack van Mayo: Frikandel</li>
+    <li>Snack van Mayo: Frikandel $2,50</li>
     <li>Kroket</li>
     <li>Snack van Ketchup: ...</li>
     <li>Bitterbal</li>
